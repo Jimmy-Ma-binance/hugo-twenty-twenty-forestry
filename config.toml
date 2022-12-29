@@ -2,6 +2,7 @@
 baseURL = "/"
 title = "Twenty Twenty Hugo for Forestry"
 languageName = "En"
+relativeURLs = "true"
 languageCode = "en-us"
 
 theme = "github.com/themefisher/twenty-twenty-hugo"
